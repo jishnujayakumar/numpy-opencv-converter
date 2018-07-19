@@ -1,6 +1,6 @@
 ## NUMPY <=> OpenCV's cv::Mat converter
-[Jishnu P](https://jishnujayakumar.github.io) (jishnuj@iisc.ac.in) Jul 19, 2018 <br/>
-[Praneet Singh](https://github.com/praneet195) (praneetsingh@iisc.ac.in) Jul 19, 2018
+[Praneet Singh](https://github.com/praneet195) (praneetsingh@iisc.ac.in) Jul 19, 2018 <br/>
+[Jishnu Jaykumar P](https://jishnujayakumar.github.io) (jishnuj@iisc.ac.in) Jul 19, 2018
 
 A convenience library that registers a boost::python converter to implicitly
 convert between OpenCV's popular cv::Mat datatype and NumPy's popular
