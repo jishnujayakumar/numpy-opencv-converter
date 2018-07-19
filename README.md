@@ -1,5 +1,5 @@
 ## NUMPY <=> OpenCV's cv::Mat converter
-[Jishnu P](https://jishnujayakumar.github.io) (jishnuj@iisc.ac.in) Jul 19, 2018
+[Jishnu P](https://jishnujayakumar.github.io) (jishnuj@iisc.ac.in) Jul 19, 2018 <br/>
 [Praneet Singh](https://github.com/praneet195) (praneetsingh@iisc.ac.in) Jul 19, 2018
 
 A convenience library that registers a boost::python converter to implicitly
